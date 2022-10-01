@@ -857,12 +857,12 @@ isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
                 "title": `Whatsapp`,
-                "body": `wa.me/6283871990243`,
+                "body": `wa.me/628882709551`,
                 "mediaType": "10",
-                "mediaUrl": `wa.me/6283871990243`,
+                "mediaUrl": `wa.me/628882709551`,
                 "thumbnailUrl": "https://k.top4top.io/p_20779elwn0.jpg",
                 "thumbnail": iye,
-                "sourceUrl": `wa.me/6283871990243`,
+                "sourceUrl": `wa.me/628882709551`,
 },mentionedJid:[sender]}, quoted : mek})
 };
 function _0x23f0(){const _0xb751aa=['https://i.ibb.co/0B7SV7C/FB-IMG-1633258042205.jpg','5378196SaDwil','537918aztXIm','readFileSync','9EjBtBZ','104470aAeKBR','https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A','5cDZJJo','20379lPcRuW','./stik/thumb.jpg','sendMessage','44PReDXE','Hello\x20','8pgbmZm','240929GbKExl','11TGLAJt','1420349MLJTFP','2512074oFCnxW'];_0x23f0=function(){return _0xb751aa;};return _0x23f0();}(function(_0x1e55a3,_0x56e726){const _0xdc492=_0x3b80,_0x3f050a=_0x1e55a3();while(!![]){try{const _0x615a03=-parseInt(_0xdc492(0x1ea))/0x1+-parseInt(_0xdc492(0x1f0))/0x2+parseInt(_0xdc492(0x1e4))/0x3*(parseInt(_0xdc492(0x1e7))/0x4)+-parseInt(_0xdc492(0x1f5))/0x5*(-parseInt(_0xdc492(0x1ed))/0x6)+-parseInt(_0xdc492(0x1ec))/0x7*(parseInt(_0xdc492(0x1e9))/0x8)+-parseInt(_0xdc492(0x1f2))/0x9*(parseInt(_0xdc492(0x1f3))/0xa)+-parseInt(_0xdc492(0x1eb))/0xb*(-parseInt(_0xdc492(0x1ef))/0xc);if(_0x615a03===_0x56e726)break;else _0x3f050a['push'](_0x3f050a['shift']());}catch(_0x2290c1){_0x3f050a['push'](_0x3f050a['shift']());}}}(_0x23f0,0x354e7));function _0x3b80(_0x185291,_0x399c5e){const _0x23f087=_0x23f0();return _0x3b80=function(_0x3b80a1,_0x38fc9b){_0x3b80a1=_0x3b80a1-0x1e4;let _0x322fe2=_0x23f087[_0x3b80a1];return _0x322fe2;},_0x3b80(_0x185291,_0x399c5e);}const fakeyt=_0x5773fb=>{const _0x5831e4=_0x3b80;itsmevall[_0x5831e4(0x1e6)](from,_0x5773fb,text,{'contextInfo':{'text':'hi','forwardingScore':0x3b9aca00,'isForwarded':![],'sendEphemeral':![],'externalAdReply':{'title':_0x5831e4(0x1e8)+pushname,'body':''+ucapanWaktu,'mediaType':'2','thumbnailUrl':_0x5831e4(0x1ee),'mediaUrl':_0x5831e4(0x1f4),'thumbnail':fs[_0x5831e4(0x1f1)](_0x5831e4(0x1e5)),'sourceUrl':''},'mentionedJid':[sender]},'quoted':fgif});};
@@ -1184,7 +1184,7 @@ case 'menu':
                contentText: `${txtt}`,
                footerText: `*Check Fitur dengan Cara :*
 Ketik ${prefix}allmenu, Jika button tidak Muncul!
-® 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍`, imageMessage: imageMsg,
+FALICHA BOTZ`, imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
@@ -1195,7 +1195,7 @@ prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: 
        case 'rules':
             ruls =`*[ RULES BOT ]*
 Patuhi atau Kena *Sanksi* dari Owner!
-© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
+FALICHA BOTZ
 
 1. Jangan Spam Bot!
 Sanksi: *WARN/SOFT BLOCK*
@@ -1211,7 +1211,7 @@ Yang Penting Gak Copas Wkwk.
 Jika Sudah Dipahami Rules-nya, Silahkan ketik *${prefix}menu*
 
 *[ OWNER BOT ]*
-https://wa.me/6283871990243
+https://wa.me/62882709552
 Mau Chat? *Utamakan kesopanan!*`
 
                buttons = [{buttonId:`${prefix}owner`,
@@ -1241,7 +1241,7 @@ prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: 
 
 *[ OWNER MENU ]*
 *Awali Command Dengan* *[ ${prefix} ]*
-© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
+FALICHA CUTEBOT
 
 ❏ ${prefix}isbaileys
 ❏ ${prefix}banchat
@@ -1274,7 +1274,7 @@ prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: 
 
 *[ GRUP MENU ]*
 *Awali Command Dengan* *[ ${prefix} ]*
-© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
+FALICHA CUTEBOT
 
 ❏ ${prefix}grup *[button]*
 ❏ ${prefix}promote *@tag*
@@ -1300,7 +1300,7 @@ prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: 
 
 *[ MAKER MENU ]*
 *Awali Command Dengan* *[ ${prefix} ]*
-© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
+FALICHA CUTEBOT
 
 ❏ ${prefix}sticker
 ❏ ${prefix}swm *[ nama|author ]*
@@ -1324,7 +1324,7 @@ prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: 
 
 *[CONVERT MENU ]*
 *Awali Command Dengan* *[ ${prefix} ]*
-© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
+FALICHA CUTEBOT
 
 ❏ ${prefix}toimg *[ reply image ]*
 ❏ ${prefix}tomp3
@@ -1336,7 +1336,7 @@ prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: 
 
 *[ DOWNLOAD MENU ]*
 *Awali Command Dengan* *[ ${prefix} ]*
-© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
+FALICHA CUTEBOT
 
 ❏ ${prefix}tiktok *[ link ]*
 ❏ ${prefix}ytmp4 *[ link ]*
@@ -1347,7 +1347,7 @@ prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: 
 
 *[ STORY MENU ]*
 *Awali Command Dengan* *[ ${prefix} ]*
-© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
+FALICHA CUTEBOT
 
 ❏ ${prefix}upswteks
 ❏ ${prefix}upswimage
@@ -1355,7 +1355,7 @@ prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: 
 
 *[ FUN MENU ]*
 *Awali Command Dengan* *[ ${prefix} ]*
-© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
+FALICHA CUTEBOT
 
 ❏ ${prefix}slander
 ❏ ${prefix}slanderpc
@@ -1368,7 +1368,7 @@ prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: 
 
 *[ TAG MENU ]*
 *Awali Command Dengan* *[ ${prefix} ]*
-© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
+FALICHA CUTEBOT
 
 ❏ ${prefix}hidetag *[ teks ]*
 ❏ ${prefix}contag
@@ -1377,7 +1377,7 @@ prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: 
 
 *[ OTHER MENU ]*
 *Awali Command Dengan* *[ ${prefix} ]*
-© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
+FALICHA CUTEBOT
 ❏ ${prefix}ping
 ❏ ${prefix}inspect
 ❏ ${prefix}join *[ link ]*
@@ -1419,7 +1419,7 @@ prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: 
 
 *[ BOT MENU ]*
 *Awali Command Dengan* *[ ${prefix} ]*
-© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
+FALICHA CUTEBOT
 
 ❏ ${prefix}rentbot
 ❏ ${prefix}stoprentbot
@@ -1427,7 +1427,7 @@ prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: 
 
 *[ COMMAND MENU ]*
 *Awali Command Dengan* *[ ${prefix} ]*
-© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
+FALICHA CUTEBOT
 
 ❏ ${prefix}addcmd
 ❏ ${prefix}delcmd
@@ -1435,7 +1435,7 @@ prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: 
     
 *[ VOTE MENU ]*
 *Awali Command Dengan* *[ ${prefix} ]*
-© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
+FALICHA CUTEBOT
 
 ❏ ${prefix}voting
 ❏ ${prefix}delvote
@@ -1447,7 +1447,7 @@ buttons = [{buttonId:`${prefix}owner`,buttonText:{displayText: 'OWNER BOT'},type
 
                buttonsMessage = {
                contentText: `${menu1}`,
-               footerText: `© 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
+               footerText: `© 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 FALICHA CUTEBOT
 Fitur ini di Recode asli oleh Xrutz Official!
 IG : https//www.instagram.com/rellnjoy_`, imageMessage: imageMsg,
                buttons: buttons,
@@ -1484,7 +1484,7 @@ break
 					enmediau = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo
 					mediau = await itsmevall.downloadAndSaveMediaMessage(enmediau)
 					await itsmevall.updateProfilePicture(botNumber, mediau)
-					reply('*➤ Berhasil kak!*\nSupport 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍')
+					reply('*➤ Berhasil kak!*\nSupport FALICHA CUTEBOT')
 					break
 case 'owner':
            case 'creator':
@@ -1492,7 +1492,7 @@ case 'owner':
                await sleep(1000)
                haibg =`*Hallo Kak ${pushname}!*\nItu Ownerku, Mau tau soal apa? *Cek dibawah!*\nSupport XrutzBot Yah!`
                buttons = [{buttonId: `${prefix}ytgw`,buttonText:{displayText: 'YOUTUBE'},type:1},{buttonId:`${prefix}iggw`,buttonText:{displayText:'INSTAGRAM'},type:1}]
-               buttonsMessage = { contentText: `${haibg}`, footerText: '© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍', buttons: buttons, headerType: 1 }
+               buttonsMessage = { contentText: `${haibg}`, footerText: 'FALICHA CUTEBOT', buttons: buttons, headerType: 1 }
                prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: fgif})
                itsmevall.relayWAMessage(prep)
                break      
@@ -1506,7 +1506,7 @@ let ini_list = []
 for (let i of nomorowner1) {
 const vname = itsmevall.contacts[i] != undefined ? itsmevall.contacts[i].vname || itsmevall.contacts[i].notify : undefined
 ini_list.push({
-"displayName": 'Xrutz Ganz',
+"displayName": 'Dejet Ganz',
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname ? `${vname}` : `${itsmevall.user.name}`}\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 })
 }
@@ -2047,9 +2047,9 @@ case "add":
               itsmevall.relayWAMessage(prep)
               break
            case 'sabtu':
-ruls =`*• XrutzBot Menyatakan bahwa :*
+ruls =`*• FALICHA CUTEBOT Menyatakan bahwa :*
 *Hari Sabtu adalah Hari =*
-© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
+FALICHA CUTEBOT
 
  Libur Sekolah
   Libur Sekolah
@@ -2653,7 +2653,7 @@ Libur Sekolah
 buttons = [{buttonId:`${prefix}owner`,
 buttonText:{displayText: 'DEVELOPER BOT'},type:1},
 {buttonId:`${prefix}matpel`,buttonText:{displayText:'JADWAL SEKOLAH'},type:1}]
-buttonsMessage = { contentText: `${ruls}`, footerText: '© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍\n*Semangat Belajarnya!*', buttons: buttons, headerType: 1 }
+buttonsMessage = { contentText: `${ruls}`, footerText: 'FALICHA CUTEBOT\n*Semangat Belajarnya!*', buttons: buttons, headerType: 1 }
 prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: fgif})
 itsmevall.relayWAMessage(prep)
 break
@@ -2801,7 +2801,7 @@ if (Number(oi2) >= 50) return reply('Most!')
         reply(`*Sukses Membuka Grup!*`);
         itsmevall.groupSettingChange(from, GroupSettingChange.messageSend, false);
         break;
-      case "reminder": // by Xrutz Ganz
+      case "reminder": // by FALICHA CUTEBOT
         if (!q)
           return reply(
             `EXAMPLE OF USE:\n${prefix}reminder text/2s\n\nNOTE: \n*s* - seconds\n*m* - minutes\n*h* - hours\n*d* - days`
@@ -5024,7 +5024,7 @@ break;
           var codeInvite = hen.split("https://chat.whatsapp.com/")[1];
           if (!codeInvite) return fakegroup("*Pastikan linknya terbuka!*");
           var response = await itsmevall.acceptInvite(codeInvite);
-          replyfakelink("➤ *Berhasil Kak!*\nSupport © 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍");
+          replyfakelink("➤ *Berhasil Kak!*\nSupport FALICHA CUTEBOT");
         } catch {
           fakegroup("*Link Tidak Valid!*");
         }
@@ -5060,12 +5060,10 @@ teks = `*「 STATUS BOT 」*
 *➤ Speed Bot :* ${latensie.toFixed(4)}
 
 *「 SOCIAL MEDIA 」*
-*➤ Youtube :* Xrutz BOT
-*➤ Insta :* @rellnjoy_
+*➤ Insta :* @masdimzpakez
 *➤ Link Grup :* Chat Owner!
 
-*Bot Grup :* https://chat.whatsapp.com/BABvK9nnhhJLImFXJaoLg9
-© 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍`
+© 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 FALICHA CUTEBOT`
              replyfakelink(teks)
              break;
       case "totag":
@@ -5285,7 +5283,7 @@ ${
       case "listdm1":
  listMsg = {
  buttonText: 'CHECK LIST',
- footerText: '© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍',
+ footerText: 'FALICHA CUTEBOT',
  description: `*Hallo kak @${sender.split("@")[0]}!*\n\n\List diamond by ${namabot} disini Kak, *Silahkan di pilih!*`,
  sections: [
                      {
@@ -6061,7 +6059,7 @@ itsmevall.sendMessage(from, Peli, MessageType.sticker, {quoted: mek})
     } else {
       console.log(
         color("[SELFBOT]", "red"),
-        "Self Bot By Xrutz Ganz",
+        "Self Bot By FALICHA CUTEBOT",
         color(sender.split("@")[0])
       );
     }
